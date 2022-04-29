@@ -1,0 +1,7 @@
+{
+    "+": ["MOV A, B", "ADD B"],
+    "-": ["MOV A, B", "SUB B"],
+    "*": ["MOV A, B", "MULT B"],
+    "/": ["MOV A, B", "DIV B"],
+    "=": ["STO C"]
+}
