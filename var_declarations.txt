@@ -1,0 +1,6 @@
+int num1, num2;
+float vel;
+char gender;
+string name; 
+num1=num1+count;
+age = 100;

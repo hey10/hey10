@@ -1,0 +1,10 @@
+x DS 1
+Y DS 1
+Z DS 1
+READ X
+READ Y
+Lda x
+ADD Y
+STO z
+out Z
+HLT
